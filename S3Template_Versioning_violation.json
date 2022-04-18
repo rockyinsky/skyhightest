@@ -46,7 +46,7 @@
         "AccessControl": "PublicReadWrite",
         "BucketEncryption": {
           "ServerSideEncryptionConfiguration": [
-            {
+            {  
               "ServerSideEncryptionByDefault": {
                 "SSEAlgorithm": "AES256"
               }
